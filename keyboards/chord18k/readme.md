@@ -1,12 +1,12 @@
 # CHORD18-k
 
-![CHORD18-k](imgur.com image replace me!)
+![CHORD18-k](https://imgur.com/a/7qvuBDv)
 
-*A short description of the keyboard/project*
+Customized keyboard for rhythm games.
 
 * Keyboard Maintainer: [Shamocha](https://github.com/Shamocha)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: CHORD18-k PCB
+* Hardware Availability: [029gaming](https://029gaming.com/products/chord18-k/)
 
 Make example for this keyboard (after setting up your build environment):
 
